@@ -8,8 +8,8 @@
 
 <!-- Profile Views + Followers Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=hiepplayagain&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/hiepplayagain?style=for-the-badge&color=0e75b6&labelColor=1c1917&label=FOLLOWERS" alt="followers"/>
+  <img src="https://komarev.com/ghpvc/?username=mr-b34n&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/mr-b34n?style=for-the-badge&color=0e75b6&labelColor=1c1917&label=FOLLOWERS" alt="followers"/>
 </p>
 
 </div>
@@ -116,12 +116,12 @@ hobbies: [Coding, Gaming, Exploring New Tech, Music, Coffee~ ☕]
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiepplayagain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiepplayagain&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mr-b34n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-b34n&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=hiepplayagain&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mr-b34n&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -129,7 +129,7 @@ hobbies: [Coding, Gaming, Exploring New Tech, Music, Coffee~ ☕]
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiepplayagain&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-b34n&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -138,9 +138,9 @@ hobbies: [Coding, Gaming, Exploring New Tech, Music, Coffee~ ☕]
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hiepplayagain/hiepplayagain/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hiepplayagain/hiepplayagain/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/hiepplayagain/hiepplayagain/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mr-b34n/mr-b34n/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mr-b34n/mr-b34n/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/mr-b34n/mr-b34n/output/github-snake.svg" />
   </picture>
 </div>
 
@@ -155,7 +155,7 @@ hobbies: [Coding, Gaming, Exploring New Tech, Music, Coffee~ ☕]
   <a href="https://www.facebook.com/hiep.choilai" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://github.com/hiepplayagain" target="_blank">
+  <a href="https://github.com/mr-b34n" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
